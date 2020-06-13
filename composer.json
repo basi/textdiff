@@ -1,0 +1,12 @@
+{
+    "name": "kijtra/textdiff",
+    "description": "Simple Text Diff PHP class.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kijtra",
+            "email": "kijtra@kijtra.com"
+        }
+    ],
+    "require": {}
+}
